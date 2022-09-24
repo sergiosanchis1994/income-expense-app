@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "income-expense-app-fab4c": {
+      "hosting": {
+        "income-expense-app": [
+          "income-expense-app-fab4c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "income-expense-app-fab4c"
+  }
+}
